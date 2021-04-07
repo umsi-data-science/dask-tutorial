@@ -1,9 +1,6 @@
 # Dask Tutorial
 
-This tutorial was last given at SciPy 2020 which was a virtual conference.
-[A video of the SciPy 2020 tutorial is available online](https://www.youtube.com/watch?v=EybGGLbLipI).
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/umsi-data-science/dask-tutorial/main?urlpath=lab)
+To start the tutorial, click on the "launch binder" button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/umsi-data-science/dask-tutorial/main?urlpath=lab)
 
 Dask provides multi-core execution on larger-than-memory datasets.
 
