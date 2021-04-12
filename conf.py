@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Dask Tutorial'
-copyright = '2018, Dask Developers'
+copyright = '2021, Dask Developers'
 author = 'Dask Developers'
 
 # The short X.Y version
